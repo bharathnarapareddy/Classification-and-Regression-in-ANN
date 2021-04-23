@@ -1,2 +1,2 @@
 # Classification-in-NN
-The repository is aimed at showing different problems solved in classification via Neural Networks
+The repository is aimed at listing out different implementations solved in classification and regression problems via Neural Networks
